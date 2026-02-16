@@ -1,9 +1,8 @@
 # 💼 Currículo Online – Lucas Gabriel Barbosa Gonçalves
 
 Currículo online desenvolvido com HTML e CSS, focado em boas práticas de SEO, acessibilidade e organização de código.
-
 Projeto criado para estudos em desenvolvimento frontend.
-
+projeto de: https://roadmap.sh/projects/single-page-cv
 ---
 
 
