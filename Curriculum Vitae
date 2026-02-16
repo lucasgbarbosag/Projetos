@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="descrição" content="Currículo de Lucas Gabriel para desenvolvedor web júnior">
+    <meta name="author" content="Lucas Gabriel Barbosa Gonçalves">
+    <meta property="og:title" content="Lucas Gabriel | Desenvolvedor Web">
+    <meta property="og:description" content="Currículo online e pojetos.">
+    <meta property="og:type" content="website">
+    <link rel="icon" href="favicon-32x32.png">
+    
+    <title>Curriculum Vitae Lucas Barbosa </title>
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <header>
+        <h1>Lucas Gabriel Barbosa Gonçalves</h1>
+        <p>Desenvolvedor Web Júnior</p>
+        <address>
+            <p><a href="mailto:lucasgabriel152021@gmail.com"> lucasgabriel152021@gmail.com</a></p>
+            <p>Telefone: +81999484881</p>
+
+        </address>
+        </header>
+
+        <section id="profile">
+        <h2>Perfil</h2>
+        <p>Um entusiasta em tecnologia que atualmente está estudando linguagens de frontend e Java, com anseio em construir sites e aprender mais sobre as novas tecnologias</p>
+        </section>
+
+        <article>
+            <h2>Educação</h2>
+            <p>Descomplica EAD - Previsão de graduação 2030</p>
+            <p>Curso: Ciência da Computação</p>
+        </article>
+            
+        <section id="habilidades">
+            <h2>Habilidades</h2>
+            <ul>
+                <li>Pacote Office Básico</li>
+                <li>Inglês Avançado</li>
+                <li>Comṕetência em lidar com diferentes perfis de pessoas</li>
+                <li>Proatividade</li>
+                <li>Aprendizado Rápido</li>
+            </ul>
+        </section>
+        <footer>
+            <p>&copy; 2024 Lucas Gabriel Barbosa Gonçalves. All rights reserved.</p>
+        </footer>
+
+</body>
+</html>
