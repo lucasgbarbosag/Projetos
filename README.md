@@ -4,10 +4,10 @@ Currículo online desenvolvido com HTML e CSS, focado em boas práticas de SEO, 
 
 Projeto criado para estudos em desenvolvimento frontend.
 
-projeto de: https://roadmap.sh/projects/single-page-cv
 ---
+https://roadmap.sh/projects/single-page-cv
 
-
+---
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
@@ -22,3 +22,4 @@ projeto de: https://roadmap.sh/projects/single-page-cv
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repo.git
+https://roadmap.sh/projects/single-page-cv
